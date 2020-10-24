@@ -1,5 +1,5 @@
 {
-  "name": "RealChess",
+  "name": "BetaZeroChess",
   "version": "0.0.1",
   "description": "Real-time chess game ",
   "main": "app.js",
@@ -13,12 +13,8 @@
     "type": "git",
     "url": "https://github.com/dwcares/socketserver"
   },
-  "author": "dwcares",
+  "author": "Kushagra, Starkizard",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dwcares/socketserver/issues"
-  },
-  "homepage": "https://github.com/dwcares/socketserver",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.7.4"
