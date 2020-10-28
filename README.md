@@ -2,6 +2,7 @@
 <ol>
 <li>Open terminal</li>
 <li>Cd to this directory</li>
+  <li>Run : npm install </li>
 <li>Run this command - "node app.js"</li>
   
 <li>Open another terminal</li>
